@@ -14,6 +14,24 @@
 
 ### Update
 
+#### 2024.04.16
+
+**HTML**
+
+```shell
+div; span; p; h1; br; hr; table; ul; img; 
+```
+
+**Emmet**
+
+```shell
+>; +; ^; (); * ; $; lorem; 
+```
+
+**markdown**
+
+维护学习文档
+
 #### 2024.04.10
 
 项目`.vscode/`目录？目录下的文件？文件中的配置？`.prettierrc.json`？  
