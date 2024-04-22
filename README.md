@@ -19,7 +19,7 @@
 | BO       | https://github.com/bwhyman     |
 | Shaolong |                                |
 | Jinxin   | https://github.com/LLL-zqvr    |
-| Qiuyue   |                                |
+| Qiuyue   | https://github.com/yue24413    |
 | Wenli    |                                |
 | Kaidi    |                                |
 | Mingyue  |                                |
