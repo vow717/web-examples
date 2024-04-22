@@ -21,7 +21,7 @@
 | Jinxin   | https://github.com/LLL-zqvr    |
 | Qiuyue   | https://github.com/yue24413    |
 | Wenli    |                                |
-| Kaidi    |                                |
+| Kaidi    | https://github.com/11hkd       |
 | Mingyue  |                                |
 | Yilin    |                                |
 | Sidi     |                                |
