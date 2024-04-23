@@ -18,7 +18,7 @@
 | -------- | ------------------------------ |
 | BO       | https://github.com/bwhyman     |
 | Shaolong |                                |
-| Jinxin   | https://github.com/LLL-zqvr    |
+| Jinxin   | https://github.com/LLL-zqvr/   |
 | Qiuyue   | https://github.com/yue24413    |
 | Wenli    |                                |
 | Kaidi    | https://github.com/11hkd       |
