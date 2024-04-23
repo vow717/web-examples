@@ -14,19 +14,19 @@
 
 ### Seeds
 
-| Name     | Repos                          |
-| -------- | ------------------------------ |
-| BO       | https://github.com/bwhyman     |
-| Shaolong |                                |
-| Jinxin   | https://github.com/LLL-zqvr/   |
-| Qiuyue   | https://github.com/yue24413    |
-| Wenli    |                                |
-| Kaidi    | https://github.com/11hkd       |
-| Mingyue  |                                |
-| Yilin    | https://github.com/songsongyl  |
-| Sidi     |                                |
-| Tianxin  | https://github.com/ChengTX666  |
-| Dingxian | https://github.com/MikeColeone |
+| Name     | Repos                                  |
+| -------- | -------------------------------------- |
+| BO       | https://github.com/bwhyman             |
+| Shaolong | https://github.com/zsliszhangxiaochong |
+| Jinxin   | https://github.com/LLL-zqvr/           |
+| Qiuyue   | https://github.com/yue24413            |
+| Wenli    |                                        |
+| Kaidi    | https://github.com/11hkd               |
+| Mingyue  |                                        |
+| Yilin    | https://github.com/songsongyl          |
+| Sidi     |                                        |
+| Tianxin  | https://github.com/ChengTX666          |
+| Dingxian | https://github.com/MikeColeone         |
 
 ### Update
 
