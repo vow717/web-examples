@@ -10,7 +10,7 @@
 
 - VS Code
 - Prettier
-- Git
+- Git |
 
 ### Seeds
 
@@ -25,7 +25,7 @@
 | Mingyue  |                                |
 | Yilin    | https://github.com/songsongyl  |
 | Sidi     |                                |
-| Tianxin  |                                |
+| Tianxin  | https://github.com/ChengTX666  |
 | Dingxian | https://github.com/MikeColeone |
 
 ### Update
