@@ -20,7 +20,7 @@
 | Shaolong | https://github.com/zsliszhangxiaochong |
 | Jinxin   | https://github.com/LLL-zqvr/           |
 | Qiuyue   | https://github.com/yue24413            |
-| Wenli    |                                        |
+| Wenli    | https://github.com/DTBtrigger          |
 | Kaidi    | https://github.com/11hkd               |
 | Mingyue  |                                        |
 | Yilin    | https://github.com/songsongyl          |
