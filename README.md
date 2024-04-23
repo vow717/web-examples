@@ -61,7 +61,7 @@ Github PR。操作基本可通过 vs code 实现
 
 9. merge，将 master branch merge 至 docs branch。目的：如果有冲突，要在 branch 解决而不是 master branch
 
-10. branch，切换回 master branch。此时 master/docs branch 汇聚为最新提交节点
+10. branch，切换回 master branch，再从 master merge docs branch。此时 master/docs 冲突已经在 docs branch 解决，因此可直接合并。master/docs branch 汇聚为最新提交节点
 
 11. push，可直接向源仓库 push pull request。等待源仓库合并代码
 
