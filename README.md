@@ -23,7 +23,7 @@
 | Wenli    |                                |
 | Kaidi    | https://github.com/11hkd       |
 | Mingyue  |                                |
-| Yilin    |                                |
+| Yilin    | https://github.com/songsongyl  |
 | Sidi     |                                |
 | Tianxin  |                                |
 | Dingxian | https://github.com/MikeColeone |
