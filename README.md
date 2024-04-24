@@ -27,6 +27,7 @@
 | Sidi     | https://github.com/dieatmore                               |
 | Tianxin  | https://github.com/ChengTX666          |
 | Dingxian | https://github.com/MikeColeone         |
+| KeFan    | https://github.com/vow717              |
 
 ### Update
 
