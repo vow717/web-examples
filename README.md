@@ -24,7 +24,7 @@
 | Kaidi    | https://github.com/11hkd               |
 | Mingyue  |                                        |
 | Yilin    | https://github.com/songsongyl          |
-| Sidi     |                                        |
+| Sidi     | https://github.com/dieatmore                               |
 | Tianxin  | https://github.com/ChengTX666          |
 | Dingxian | https://github.com/MikeColeone         |
 
