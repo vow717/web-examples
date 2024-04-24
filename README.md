@@ -22,7 +22,7 @@
 | Qiuyue   | https://github.com/yue24413            |
 | Wenli    | https://github.com/DTBtrigger          |
 | Kaidi    | https://github.com/11hkd               |
-| Mingyue  |                                        |
+| Mingyue  | https://github.com/hemingyueyyqx       |
 | Yilin    | https://github.com/songsongyl          |
 | Sidi     | https://github.com/dieatmore                               |
 | Tianxin  | https://github.com/ChengTX666          |
