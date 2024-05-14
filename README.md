@@ -31,6 +31,29 @@
 
 ### Update
 
+#### 2024.05.14
+
+**CSS**
+
+flex 布局；12 栅格布局；  
+CSS 选择器从右向左解析的原因；
+
+**JS**
+
+JS 基本语法；箭头函数；对象；模板字符串；JSON；callback；
+
+```shell
+arrays；for-of/for-in/forEach()/find()/map()/filter()/sort()/splice()/includes();
+onclick/onchange/onkeyup/onkeydown events；
+document/getElementById()
+```
+
+**需求**
+
+当改变课程名称下拉框值时，从对象数组中找到对应的授课教师姓名，渲染到页面。
+
+当 2s 后输入框没有输入时，将输入字母转为大写。(up/down 事件；定时器；定时器取消；封装)
+
 #### 2024.04.26
 
 **CSS**
